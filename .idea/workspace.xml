@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c70462-1f46-4856-8b58-baf598de10e4" name="Changes" comment="first commit">
+    <list default="true" id="94c70462-1f46-4856-8b58-baf598de10e4" name="Changes" comment="adicionado classe livro1">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/calculadora/Calculadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Calculadora">
+    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.calculadora.Calculadora" />
+      <module name="primeiro-programa-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.PrimeiroPrograma" />
       <module name="primeiro-programa-intellij" />
@@ -62,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.PrimeiroPrograma" />
       </list>
     </recent_temporary>
@@ -82,11 +96,30 @@
       <option name="project" value="LOCAL" />
       <updated>1676850991566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adicionado classe livro1">
+      <created>1676852382957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852382957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="adicionado classe livro1" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionado classe livro1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/dio/calculadora/Calculadora.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
